@@ -2,6 +2,10 @@
 
 Template Project for starting up CRUD API with Django Rest Framework
 
+PR:[https://github.com/Anas-Abuhatab/cookie-stand-api/pull/1](https://github.com/Anas-Abuhatab/cookie-stand-api/pull/1)
+
+Heroku app:[https://cookie-stand-api12315426354.herokuapp.com/admin/](https://cookie-stand-api12315426354.herokuapp.com/admin/)
+
 ## Customization Steps
 
 - DO NOT migrate yet
